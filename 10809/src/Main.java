@@ -10,6 +10,5 @@ public class Main {
         for(int i = 0; i < 26; i++) {
             System.out.print(str.indexOf(97 + i) + " ");
         }
-
     }
 }
