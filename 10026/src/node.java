@@ -1,6 +1,6 @@
-public class node {
-    private String color;
-    private boolean meet;
+    public class node {
+        private String color;
+        private boolean meet;
     int x, y;
 
     public node(String color, int x, int y){
